@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Which word is a synonym for 'Large'?",
+    "options": ["Tiny", "Huge", "Thin", "Soft"],
+    "answer": 1,
+    "explanation": "Synonyms are words with similar meanings. 'Huge' means the same as 'Large'."
+  },
+  {
+    "q": "Which of these is an action word (verb)?",
+    "options": ["Blue", "Table", "Dance", "Quiet"],
+    "answer": 2,
+    "explanation": "Dance is an action, so it is a verb."
+  },
+  {
+    "q": "Which word correctly completes the sentence: 'The cat ___ on the mat yesterday.'",
+    "options": ["sleeps", "sleeping", "slept", "sleep"],
+    "answer": 2,
+    "explanation": "Since the action happened 'yesterday', we use the past tense 'slept'."
+  },
+  {
+    "q": "Which word is an adjective (describing word)?",
+    "options": ["Run", "Beautiful", "Dog", "Under"],
+    "answer": 1,
+    "explanation": "Beautiful describes a person or thing, so it is an adjective."
+  },
+  {
+    "q": "Which word rhymes with 'Light'?",
+    "options": ["Late", "Flight", "Lift", "Lot"],
+    "answer": 1,
+    "explanation": "Light and Flight both end with the '-ight' sound."
+  },
+  {
+    "q": "What is the main purpose of a recipe?",
+    "options": ["To tell a funny story", "To explain how to make something", "To persuade someone to buy a product", "To describe a person"],
+    "answer": 1,
+    "explanation": "A recipe provides step-by-step instructions on how to prepare food."
+  },
+  {
+    "q": "Which punctuation mark is used at the end of an excited sentence?",
+    "options": [".", "?", "!", ","],
+    "answer": 2,
+    "explanation": "An exclamation point (!) is used to show strong emotion or excitement."
+  },
+  {
+    "q": "Which word describes a person who is 'brave'?",
+    "options": ["Scared", "Courageous", "Tired", "Shy"],
+    "answer": 1,
+    "explanation": "Courageous is a synonym for brave."
+  },
+  {
+    "q": "Choose the word that best completes the sentence: 'The birds ___ south for the winter.'",
+    "options": ["fly", "flies", "flying", "flew"],
+    "answer": 0,
+    "explanation": "The subject 'birds' is plural, so the correct verb is 'fly'."
+  },
+  {
+    "q": "Which word is the opposite of 'Cold'?",
+    "options": ["Chilly", "Freezing", "Hot", "Cool"],
+    "answer": 2,
+    "explanation": "Hot is the opposite of cold."
+  },
+  {
+    "q": "Which of these is a proper noun?",
+    "options": ["city", "mountain", "North Carolina", "river"],
+    "answer": 2,
+    "explanation": "North Carolina is the specific name of a state, so it is a proper noun and must be capitalized."
+  },
+  {
+    "q": "Which word describes a 'small' amount of something?",
+    "options": ["Plenty", "Tons", "Tiny", "Massive"],
+    "answer": 2,
+    "explanation": "Tiny refers to a very small size or amount."
+  },
+  {
+    "q": "Which word rhymes with 'Bake'?",
+    "options": ["Back", "Lake", "Book", "Bike"],
+    "answer": 1,
+    "explanation": "Bake and Lake both end with the '-ake' sound."
+  },
+  {
+    "q": "What is the opposite of 'Fast'?",
+    "options": ["Quick", "Rapid", "Slow", "Hurry"],
+    "answer": 2,
+    "explanation": "Slow is the opposite of fast."
+  },
+  {
+    "q": "Which word is a pronoun?",
+    "options": ["She", "Apple", "Jump", "Red"],
+    "answer": 0,
+    "explanation": "A pronoun takes the place of a noun. 'She' is a pronoun."
+  },
+  {
+    "q": "Which word is a synonym for 'Happy'?",
+    "options": ["Sad", "Gloomy", "Cheerful", "Tired"],
+    "answer": 2,
+    "explanation": "Cheerful means the same as happy."
+  },
+  {
+    "q": "Which of these is a complete sentence?",
+    "options": ["The red car", "Sprinting fast", "I can read.", "A sunny day"],
+    "answer": 2,
+    "explanation": "'I can read' has a subject and a verb."
+  },
+  {
+    "q": "Which word is the opposite of 'Quiet'?",
+    "options": ["Silent", "Loud", "Soft", "Calm"],
+    "answer": 1,
+    "explanation": "Loud is the opposite of quiet."
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Jump", "Silly", "Library", "Quickly"],
+    "answer": 2,
+    "explanation": "Library is a place, so it is a noun."
+  },
+  {
+    "q": "Which word rhymes with 'Snail'?",
+    "options": ["Small", "Tail", "Sun", "Silly"],
+    "answer": 1,
+    "explanation": "Snail and Tail both end with the '-ail' sound."
+  },
+  {
+    "q": "Which word needs a capital letter?",
+    "options": ["book", "Tuesday", "pen", "hat"],
+    "answer": 1,
+    "explanation": "Tuesday is a day of the week, so it is a proper noun."
+  },
+  {
+    "q": "Which word is a verb?",
+    "options": ["Quiet", "Green", "Sing", "Paper"],
+    "answer": 2,
+    "explanation": "Sing is an action, so it is a verb."
+  },
+  {
+    "q": "Which word describes a feeling?",
+    "options": ["Red", "Large", "Sad", "Round"],
+    "answer": 2,
+    "explanation": "Sad describes a feeling, so it is an adjective."
+  },
+  {
+    "q": "Which punctuation mark is used to ask a question?",
+    "options": [".", "!", "?", ","],
+    "answer": 2,
+    "explanation": "A question mark (?) is used at the end of a question."
+  },
+  {
+    "q": "Which word is a synonym for 'Hard' (difficult)?",
+    "options": ["Easy", "Challenging", "Soft", "Smooth"],
+    "answer": 1,
+    "explanation": "Challenging means the same as hard/difficult."
+  },
+  {
+    "q": "Choose the word that completes the sentence: 'The cat ___ across the room.'",
+    "options": ["ran", "running", "runned", "runs"],
+    "answer": 0,
+    "explanation": "The past tense of run is 'ran'."
+  },
+  {
+    "q": "Which word is an adjective?",
+    "options": ["Dance", "Quickly", "Sparkly", "Tree"],
+    "answer": 2,
+    "explanation": "Sparkly describes how something looks, so it is an adjective."
+  },
+  {
+    "q": "Which word rhymes with 'Blue'?",
+    "options": ["Blow", "Glue", "Blow", "Blew"],
+    "answer": 1,
+    "explanation": "Blue and Glue both end with the '-ue' sound."
+  },
+  {
+    "q": "What is the opposite of 'Empty'?",
+    "options": ["Void", "Hollow", "Full", "Clear"],
+    "answer": 2,
+    "explanation": "Full is the opposite of empty."
+  },
+  {
+    "q": "Which of these is a proper noun?",
+    "options": ["country", "city", "London", "street"],
+    "answer": 2,
+    "explanation": "London is a specific city, so it is a proper noun."
+  }
+]

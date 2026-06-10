@@ -40,5 +40,22 @@ button {
   cursor: pointer;
 }
 
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 15px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+}
 
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+}
+
+
+.card {
+  min-height: 80px;
+}
 

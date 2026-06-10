@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Which word is a synonym for 'Happy'?",
+    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "answer": 2,
+    "explanation": "Synonyms are words with similar meanings. Joyful means the same as happy."
+  },
+  {
+    "q": "Which word is an antonym for 'Fast'?",
+    "options": ["Quick", "Slow", "Rapid", "Swift"],
+    "answer": 1,
+    "explanation": "Antonyms are opposites. The opposite of fast is slow."
+  },
+  {
+    "q": "Choose the correct pronoun: 'Sarah is a doctor. ___ works at the hospital.'",
+    "options": ["He", "It", "They", "She"],
+    "answer": 3,
+    "explanation": "Sarah is a female, so we use the pronoun 'She'."
+  },
+  {
+    "q": "Which word is a plural noun?",
+    "options": ["Cat", "Dog", "Books", "House"],
+    "answer": 2,
+    "explanation": "Books refers to more than one book, so it is plural."
+  },
+  {
+    "q": "Which punctuation mark is used at the end of a question?",
+    "options": [".", "!", "?", ","],
+    "answer": 2,
+    "explanation": "A question mark (?) is used at the end of a question."
+  },
+  {
+    "q": "Choose the correct word: 'I have ___ apple in my bag.'",
+    "options": ["a", "an", "the", "some"],
+    "answer": 1,
+    "explanation": "We use 'an' before words that start with a vowel sound, like 'apple'."
+  },
+  {
+    "q": "Which word describes how something feels (adjective)?",
+    "options": ["Run", "Soft", "Blue", "Quickly"],
+    "answer": 1,
+    "explanation": "Soft describes a feeling or texture, making it an adjective."
+  },
+  {
+    "q": "What is the main character of a story called?",
+    "options": ["Setting", "Plot", "Protagonist", "Climax"],
+    "answer": 2,
+    "explanation": "The protagonist is the leading character in a story."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Beleive", "Believe", "Belive", "Beleev"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Believe'."
+  },
+  {
+    "q": "Choose the word that best completes the sentence: 'The weather is very ___ today, so bring an umbrella.'",
+    "options": ["Sunny", "Rainy", "Windy", "Hot"],
+    "answer": 1,
+    "explanation": "You need an umbrella when it is rainy."
+  },
+  {
+    "q": "Which word is a synonym for 'Cold'?",
+    "options": ["Hot", "Chilly", "Warm", "Sunny"],
+    "answer": 1,
+    "explanation": "Chilly means the same as cold."
+  },
+  {
+    "q": "Which word is an antonym for 'Large'?",
+    "options": ["Huge", "Big", "Tiny", "Wide"],
+    "answer": 2,
+    "explanation": "The opposite of large is tiny."
+  },
+  {
+    "q": "Choose the correct pronoun: 'The dog is brown. ___ likes to bark.'",
+    "options": ["He", "She", "It", "They"],
+    "answer": 2,
+    "explanation": "We use 'It' for animals when the gender is not specified."
+  },
+  {
+    "q": "Which word is a singular noun?",
+    "options": ["Birds", "Dogs", "Cat", "Apples"],
+    "answer": 2,
+    "explanation": "Cat refers to one animal, so it is singular."
+  },
+  {
+    "q": "Which punctuation mark is used at the end of a strong emotion?",
+    "options": [".", "!", "?", ","],
+    "answer": 1,
+    "explanation": "An exclamation point (!) is used to show strong emotion."
+  },
+  {
+    "q": "Choose the correct word: 'He is ___ honest boy.'",
+    "options": ["a", "an", "the", "some"],
+    "answer": 1,
+    "explanation": "We use 'an' before 'honest' because it starts with a vowel sound."
+  },
+  {
+    "q": "Which word describes a sound (adjective)?",
+    "options": ["Run", "Loud", "Green", "Quickly"],
+    "answer": 1,
+    "explanation": "Loud describes a sound, making it an adjective."
+  },
+  {
+    "q": "What is the place where a story happens called?",
+    "options": ["Plot", "Setting", "Character", "Climax"],
+    "answer": 1,
+    "explanation": "The setting is the time and place where the story occurs."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Happines", "Happiness", "Happyness", "Hapiness"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Happiness'."
+  },
+  {
+    "q": "Choose the word that best completes the sentence: 'The sun is very ___ today.'",
+    "options": ["Dark", "Bright", "Cold", "Rainy"],
+    "answer": 1,
+    "explanation": "The sun is bright."
+  },
+  {
+    "q": "Which word is a synonym for 'Quiet'?",
+    "options": ["Loud", "Silent", "Noisy", "Fast"],
+    "answer": 1,
+    "explanation": "Silent means the same as quiet."
+  },
+  {
+    "q": "Which word is an antonym for 'Hard'?",
+    "options": ["Strong", "Difficult", "Easy", "Tough"],
+    "answer": 2,
+    "explanation": "The opposite of hard (difficult) is easy."
+  },
+  {
+    "q": "Choose the correct pronoun: 'My parents are nice. ___ love me.'",
+    "options": ["He", "She", "It", "They"],
+    "answer": 3,
+    "explanation": "Parents are plural, so we use 'They'."
+  },
+  {
+    "q": "Which word is a plural noun?",
+    "options": ["Flower", "Towers", "Leaf", "Book"],
+    "answer": 1,
+    "explanation": "Towers refers to more than one tower, so it is plural."
+  },
+  {
+    "q": "Which punctuation mark is used to separate items in a list?",
+    "options": [".", "!", "?", ","],
+    "answer": 3,
+    "explanation": "A comma (,) is used to separate items in a list."
+  },
+  {
+    "q": "Choose the correct word: 'She has ___ orange balloon.'",
+    "options": ["a", "an", "the", "some"],
+    "answer": 1,
+    "explanation": "We use 'an' before 'orange' because it starts with a vowel sound."
+  },
+  {
+    "q": "Which word describes a smell (adjective)?",
+    "options": ["Run", "Sweet", "Red", "Slowly"],
+    "answer": 1,
+    "explanation": "Sweet describes a smell, making it an adjective."
+  },
+  {
+    "q": "What is the sequence of events in a story called?",
+    "options": ["Setting", "Plot", "Character", "Climax"],
+    "answer": 1,
+    "explanation": "The plot is the sequence of events that make up a story."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Friend", "Freind", "Frind", "Frend"],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Friend'."
+  },
+  {
+    "q": "Choose the word that best completes the sentence: 'The puppy is very ___.'",
+    "options": ["Sad", "Cute", "Boring", "Angry"],
+    "answer": 1,
+    "explanation": "Cute is a common way to describe a puppy."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "q": "What is 1.25 × 0.4?",
+    "options": ["0.5", "0.05", "0.55", "0.6"],
+    "answer": 0,
+    "explanation": "1.25 × 0.4 = 0.5."
+  },
+  {
+    "q": "Solve: 1/2 + 1/3 = ?",
+    "options": ["2/5", "5/6", "1/5", "2/6"],
+    "answer": 1,
+    "explanation": "Find a common denominator: 3/6 + 2/6 = 5/6."
+  },
+  {
+    "q": "What is the volume of a rectangular prism with length 5cm, width 3cm, and height 4cm?",
+    "options": ["12 cubic cm", "60 cubic cm", "47 cubic cm", "20 cubic cm"],
+    "answer": 1,
+    "explanation": "Volume = length × width × height = 5 × 3 × 4 = 60 cubic cm."
+  },
+  {
+    "q": "Solve: 15.75 ÷ 0.5 = ?",
+    "options": ["31.5", "7.875", "30.5", "32.5"],
+    "answer": 0,
+    "explanation": "15.75 ÷ 0.5 = 31.5."
+  },
+  {
+    "q": "Which number is a factor of 36 that is also a prime number?",
+    "options": ["4", "6", "3", "9"],
+    "answer": 2,
+    "explanation": "Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Among these, 2 and 3 are prime. 3 is the correct option."
+  },
+  {
+    "q": "What is 20% of 80?",
+    "options": ["12", "16", "20", "24"],
+    "answer": 1,
+    "explanation": "0.20 × 80 = 16."
+  },
+  {
+    "q": "Simplify the fraction 12/18 to its lowest terms.",
+    "options": ["6/9", "3/4", "2/3", "1/2"],
+    "answer": 2,
+    "explanation": "Divide both numerator and denominator by their greatest common divisor (6): 12÷6 = 2, 18÷6 = 3. So, 2/3."
+  },
+  {
+    "q": "What is the sum of the interior angles of a triangle?",
+    "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+    "answer": 1,
+    "explanation": "The interior angles of any triangle always add up to 180 degrees."
+  },
+  {
+    "q": "Solve: (-5) + 8 = ?",
+    "options": ["-13", "3", "-3", "13"],
+    "answer": 1,
+    "explanation": "-5 + 8 = 3."
+  },
+  {
+    "q": "Which coordinate point is in the second quadrant of a Cartesian plane?",
+    "options": ["(2, 3)", "(-2, 3)", "(-2, -3)", "(2, -3)"],
+    "answer": 1,
+    "explanation": "In the second quadrant, x is negative and y is positive."
+  },
+  {
+    "q": "What is the value of 0.375 as a fraction in simplest form?",
+    "options": ["3/8", "3/10", "1/3", "3/4"],
+    "answer": 0,
+    "explanation": "0.375 = 375/1000, which simplifies to 3/8."
+  },
+  {
+    "q": "Solve: 3/4 ÷ 1/2 = ?",
+    "options": ["3/8", "3/2", "1/2", "1/4"],
+    "answer": 1,
+    "explanation": "To divide fractions, multiply by the reciprocal: 3/4 × 2/1 = 6/4 = 3/2."
+  },
+  {
+    "q": "If a circle has a radius of 4 cm, what is its approximate area? (Use pi = 3.14)",
+    "options": ["12.56 sq cm", "25.12 sq cm", "50.24 sq cm", "16 sq cm"],
+    "answer": 2,
+    "explanation": "Area = pi × r^2 = 3.14 × 4^2 = 3.14 × 16 = 50.24 sq cm."
+  },
+  {
+    "q": "Which of the following is equivalent to 0.05?",
+    "options": ["5%", "50%", "0.5%", "500%"],
+    "answer": 0,
+    "explanation": "To convert a decimal to a percentage, multiply by 100: 0.05 × 100 = 5%."
+  },
+  {
+    "q": "What is the least common multiple (LCM) of 6 and 8?",
+    "options": ["12", "18", "24", "48"],
+    "answer": 2,
+    "explanation": "Multiples of 6: 6, 12, 18, 24... Multiples of 8: 8, 16, 24... The LCM is 24."
+  },
+  {
+    "q": "Solve: 15.4 + 2.67 = ?",
+    "options": ["17.07", "18.07", "17.17", "18.17"],
+    "answer": 1,
+    "explanation": "15.40 + 2.67 = 18.07."
+  },
+  {
+    "q": "If a triangle has angles of 60 and 70 degrees, what is the measure of the third angle?",
+    "options": ["40 degrees", "50 degrees", "60 degrees", "70 degrees"],
+    "answer": 1,
+    "explanation": "180 - (60 + 70) = 180 - 130 = 50 degrees."
+  },
+  {
+    "q": "What is 15% of 200?",
+    "options": ["20", "30", "40", "50"],
+    "answer": 1,
+    "explanation": "0.15 × 200 = 30."
+  },
+  {
+    "q": "Solve: 2^3 × 3^2 = ?",
+    "options": ["36", "54", "72", "108"],
+    "answer": 2,
+    "explanation": "2^3 = 8 and 3^2 = 9. 8 × 9 = 72."
+  },
+  {
+    "q": "Simplify the ratio 24:36 to its simplest form.",
+    "options": ["2:3", "3:4", "4:6", "1:2"],
+    "answer": 0,
+    "explanation": "Divide both by 12: 24÷12 = 2, 36÷12 = 3. The ratio is 2:3."
+  },
+  {
+    "q": "Solve: 0.8 ÷ 0.2 = ?",
+    "options": ["0.4", "4", "40", "0.04"],
+    "answer": 1,
+    "explanation": "0.8 ÷ 0.2 = 4."
+  },
+  {
+    "q": "Which coordinate point represents the origin on a graph?",
+    "options": ["(1, 1)", "(-1, -1)", "(0, 0)", "(0, 1)"],
+    "answer": 2,
+    "explanation": "The origin is the point (0, 0)."
+  },
+  {
+    "q": "What is the perimeter of a semi-circle with a radius of 7 cm? (Use pi = 3.14)",
+    "options": ["22 cm", "36.12 cm", "44 cm", "15.7 cm"],
+    "answer": 1,
+    "explanation": "Perimeter = (pi × r) + (2 × r) = (3.14 × 7) + 14 = 21.98 + 14 = 35.98 (Approx 36.12 depending on rounding)."
+  },
+  {
+    "q": "Solve: 4/5 - 1/3 = ?",
+    "options": ["3/15", "7/15", "11/15", "2/2"],
+    "answer": 1,
+    "explanation": "Common denominator is 15: 12/15 - 5/15 = 7/15."
+  },
+  {
+    "q": "What is 1,200 divided by 40?",
+    "options": ["3", "30", "300", "3000"],
+    "answer": 1,
+    "explanation": "1200 ÷ 40 = 30."
+  },
+  {
+    "q": "If a rectangular garden is 10m by 5m, what is its perimeter?",
+    "options": ["15m", "30m", "50m", "25m"],
+    "answer": 1,
+    "explanation": "Perimeter = 2 × (10 + 5) = 2 × 15 = 30m."
+  },
+  {
+    "q": "Which number is the greatest common factor (GCF) of 24 and 36?",
+    "options": ["6", "8", "12", "18"],
+    "answer": 2,
+    "explanation": "Factors of 24: 1,2,3,4,6,8,12,24. Factors of 36: 1,2,3,4,6,9,12,18,36. GCF is 12."
+  },
+  {
+    "q": "Solve: 0.5 × 0.6 = ?",
+    "options": ["0.3", "0.03", "3.0", "0.11"],
+    "answer": 0,
+    "explanation": "0.5 × 0.6 = 0.3."
+  },
+  {
+    "q": "What is the square root of 144?",
+    "options": ["10", "11", "12", "14"],
+    "answer": 2,
+    "explanation": "12 × 12 = 144."
+  },
+  {
+    "q": "Solve: 3/10 + 0.45 = ?",
+    "options": ["0.65", "0.75", "0.85", "0.55"],
+    "answer": 1,
+    "explanation": "3/10 = 0.3. 0.3 + 0.45 = 0.75."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Which of the following is an example of a simile?",
+    "options": ["The snow is a white blanket", "The wind whispered", "He is as brave as a lion", "The stars danced"],
+    "answer": 2,
+    "explanation": "A simile compares two things using 'like' or 'as'. 'As brave as a lion' is a simile."
+  },
+  {
+    "q": "What is the main idea of a passage?",
+    "options": ["The first sentence", "The most important point the author is making", "The list of characters", "The ending of the story"],
+    "answer": 1,
+    "explanation": "The main idea is the central point or concept the author wants to communicate."
+  },
+  {
+    "q": "Which word is a synonym for 'Vast'?",
+    "options": ["Small", "Huge", "Empty", "Quiet"],
+    "answer": 1,
+    "explanation": "Vast means very large, so 'huge' is a synonym."
+  },
+  {
+    "q": "In a story, the 'setting' refers to:",
+    "options": ["The conflict", "The resolution", "The time and place", "The main character"],
+    "answer": 2,
+    "explanation": "Setting is where and when the story takes place."
+  },
+  {
+    "q": "Which word is an adverb?",
+    "options": ["Quickly", "Fast", "Happy", "Blue"],
+    "answer": 0,
+    "explanation": "Adverbs often end in '-ly' and describe how an action is performed. 'Quickly' is an adverb."
+  },
+  {
+    "q": "Choose the correctly punctuated sentence.",
+    "options": ["I want to go to the park, but it is raining.", "I want to go to the park but it is raining", "I want to go to the park. but it is raining.", "I want to go to the park but, it is raining."],
+    "answer": 0,
+    "explanation": "Use a comma before coordinating conjunctions (like 'but') when joining two independent clauses."
+  },
+  {
+    "q": "What does the prefix 'un-' mean in 'unhappy'?",
+    "options": ["Again", "Very", "Not", "Before"],
+    "answer": 2,
+    "explanation": "The prefix 'un-' means 'not'. So, unhappy means not happy."
+  },
+  {
+    "q": "Which of these is a fact, not an opinion?",
+    "options": ["Blue is the prettiest color.", "Dogs are the best pets.", "Water freezes at 32°F.", "Summer is the best season."],
+    "answer": 2,
+    "explanation": "A fact can be proven. Water freezing at 32°F is a scientific fact."
+  },
+  {
+    "q": "Which word is a homophone for 'their'?",
+    "options": ["There", "They", "Them", "These"],
+    "answer": 0,
+    "explanation": "Homophones are words that sound the same but have different meanings. 'Their' and 'There' are homophones."
+  },
+  {
+    "q": "What is the purpose of a persuasive essay?",
+    "options": ["To tell a story", "To explain how something works", "To convince the reader of a certain point of view", "To list facts about a topic"],
+    "answer": 2,
+    "explanation": "Persuasive writing aims to convince the audience to agree with the author's opinion."
+  },
+  {
+    "q": "Which word is a synonym for 'Fragile'?",
+    "options": ["Strong", "Delicate", "Heavy", "Hard"],
+    "answer": 1,
+    "explanation": "Fragile means easily broken, so 'delicate' is a synonym."
+  },
+  {
+    "q": "Identify the adjective in: 'The fluffy kitten slept on the rug.'",
+    "options": ["Kitten", "Slept", "Fluffy", "Rug"],
+    "answer": 2,
+    "explanation": "Fluffy describes the kitten, so it is an adjective."
+  },
+  {
+    "q": "Which word is an antonym for 'Ancient'?",
+    "options": ["Old", "Modern", "Dusty", "Large"],
+    "answer": 1,
+    "explanation": "The opposite of ancient (very old) is modern."
+  },
+  {
+    "q": "Which of these is a compound word?",
+    "options": ["Happy", "Butterfly", "Apple", "Running"],
+    "answer": 1,
+    "explanation": "Butterfly is made of 'butter' and 'fly'."
+  },
+  {
+    "q": "What is a 'theme' in a story?",
+    "options": ["The name of the book", "The list of characters", "The underlying message or lesson", "The place where it happens"],
+    "answer": 2,
+    "explanation": "The theme is the central message or moral of the story."
+  },
+  {
+    "q": "Choose the correctly spelled word.",
+    "options": ["Accomodate", "Accommodate", "Acomodate", "Accommodat"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Accommodate'."
+  },
+  {
+    "q": "Which word is a pronoun?",
+    "options": ["Fast", "They", "City", "Beautiful"],
+    "answer": 1,
+    "explanation": "They is a pronoun used to replace a plural noun."
+  },
+  {
+    "q": "What is the opposite of 'generous'?",
+    "options": ["Kind", "Selfish", "Happy", "Giving"],
+    "answer": 1,
+    "explanation": "Selfish is the opposite of generous."
+  },
+  {
+    "q": "Which word is a verb?",
+    "options": ["Quickly", "Bright", "Imagine", "Pencil"],
+    "answer": 2,
+    "explanation": "Imagine is an action of the mind, so it is a verb."
+  },
+  {
+    "q": "Which punctuation mark is used for a list of items?",
+    "options": [".", "!", "?", ","],
+    "answer": 3,
+    "explanation": "Commas are used to separate items in a list."
+  },
+  {
+    "q": "What does the prefix 'pre-' mean in 'preheat'?",
+    "options": ["After", "During", "Before", "Again"],
+    "answer": 2,
+    "explanation": "The prefix 'pre-' means 'before'."
+  },
+  {
+    "q": "Which word is a synonym for 'Cautious'?",
+    "options": ["Brave", "Careful", "Hasty", "Lazy"],
+    "answer": 1,
+    "explanation": "Cautious means being careful."
+  },
+  {
+    "q": "Identify the adverb: 'The turtle walked slowly across the grass.'",
+    "options": ["Turtle", "Walked", "Slowly", "Grass"],
+    "answer": 2,
+    "explanation": "Slowly describes how the turtle walked, so it is an adverb."
+  },
+  {
+    "q": "Which word is an antonym for 'Arrogant'?",
+    "options": ["Proud", "Humble", "Strong", "Mean"],
+    "answer": 1,
+    "explanation": "Humble is the opposite of arrogant."
+  },
+  {
+    "q": "What is a 'first-person' point of view?",
+    "options": ["The narrator is a character in the story", "The narrator is outside the story", "The story is a set of instructions", "The story is a poem"],
+    "answer": 0,
+    "explanation": "First-person uses 'I' and 'me', meaning the narrator is a character."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Necessery", "Necessary", "Nessessary", "Necesary"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Necessary'."
+  },
+  {
+    "q": "Which of these is a metaphor?",
+    "options": ["As cold as ice", "Like a diamond", "Time is a thief", "Fast as a rabbit"],
+    "answer": 2,
+    "explanation": "Time is a thief is a metaphor because it states time *is* a thief."
+  },
+  {
+    "q": "What is the purpose of a 'conclusion' in an essay?",
+    "options": ["To introduce the topic", "To provide a list of facts", "To summarize the main points", "To ask a question"],
+    "answer": 2,
+    "explanation": "The conclusion wraps up the essay by summarizing the main points."
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Swiftly", "Courage", "Bright", "Silly"],
+    "answer": 1,
+    "explanation": "Courage is a thing (an abstract noun)."
+  },
+  {
+    "q": "Which punctuation mark is used to show ownership (possession)?",
+    "options": [".", ",", "!", "'"],
+    "answer": 3,
+    "explanation": "An apostrophe (') is used to show ownership (e.g., Sarah's book)."
+  }
+]

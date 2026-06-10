@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Which word has the same beginning sound as 'Dog'?",
+    "options": ["Cat", "Duck", "Fish", "Goat"],
+    "answer": 1,
+    "explanation": "Both 'Dog' and 'Duck' start with the /d/ sound."
+  },
+  {
+    "q": "Which of these is a complete sentence?",
+    "options": ["The red ball", "I like apples.", "Running fast", "A big dog"],
+    "answer": 1,
+    "explanation": "A complete sentence needs a subject and a verb. 'I like apples' is a complete thought."
+  },
+  {
+    "q": "What is the opposite of 'Cold'?",
+    "options": ["Freezing", "Icy", "Hot", "Cool"],
+    "answer": 2,
+    "explanation": "The opposite of cold is hot."
+  },
+  {
+    "q": "Which word is a noun (person, place, or thing)?",
+    "options": ["Sing", "Jump", "Tree", "Blue"],
+    "answer": 2,
+    "explanation": "A tree is a thing, so it is a noun."
+  },
+  {
+    "q": "Choose the word that rhymes with 'Cake'.",
+    "options": ["Cat", "Bake", "Car", "Can"],
+    "answer": 1,
+    "explanation": "'Cake' and 'Bake' both end with the '-ake' sound."
+  },
+  {
+    "q": "Which word needs a capital letter at the beginning?",
+    "options": ["apple", "monday", "ball", "cat"],
+    "answer": 1,
+    "explanation": "Days of the week, like Monday, always start with a capital letter."
+  },
+  {
+    "q": "Which word is an action word (verb)?",
+    "options": ["Happy", "Run", "Green", "Book"],
+    "answer": 1,
+    "explanation": "Run is something you do, so it is a verb."
+  },
+  {
+    "q": "Which word describes a size?",
+    "options": ["Red", "Fast", "Huge", "Loud"],
+    "answer": 2,
+    "explanation": "Huge describes how big something is."
+  },
+  {
+    "q": "Choose the correct word to finish the sentence: 'The bird ___ in the sky.'",
+    "options": ["flies", "fly", "flying", "flys"],
+    "answer": 0,
+    "explanation": "The subject 'bird' is singular, so we use the verb 'flies'."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Skoool", "School", "Skool", "Schul"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'School'."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Fish'?",
+    "options": ["Ball", "Fan", "Frog", "Dog"],
+    "answer": 2,
+    "explanation": "Both 'Fish' and 'Frog' start with the /f/ sound."
+  },
+  {
+    "q": "Which word is a synonym for 'Small'?",
+    "options": ["Big", "Tiny", "Long", "Heavy"],
+    "answer": 1,
+    "explanation": "Tiny means the same as small."
+  },
+  {
+    "q": "Which of these is a complete sentence?",
+    "options": ["The blue sky", "I can jump.", "Silly monkey", "Fast car"],
+    "answer": 1,
+    "explanation": "'I can jump' has a subject (I) and a verb (can jump)."
+  },
+  {
+    "q": "Which word is the opposite of 'Up'?",
+    "options": ["High", "Down", "Left", "Right"],
+    "answer": 1,
+    "explanation": "The opposite of up is down."
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Jump", "Happy", "City", "Quickly"],
+    "answer": 2,
+    "explanation": "City is a place, so it is a noun."
+  },
+  {
+    "q": "Which word rhymes with 'Snail'?",
+    "options": ["Small", "Tail", "Sun", "Silly"],
+    "answer": 1,
+    "explanation": "Snail and Tail both end with the '-ail' sound."
+  },
+  {
+    "q": "Which word needs a capital letter?",
+    "options": ["book", "table", "America", "pencil"],
+    "answer": 2,
+    "explanation": "America is the name of a country, so it is a proper noun."
+  },
+  {
+    "q": "Which word is a verb?",
+    "options": ["Blue", "Slowly", "Eat", "Apple"],
+    "answer": 2,
+    "explanation": "Eat is an action, so it is a verb."
+  },
+  {
+    "q": "Which word describes a color?",
+    "options": ["Fast", "Yellow", "Big", "Soft"],
+    "answer": 1,
+    "explanation": "Yellow is a color."
+  },
+  {
+    "q": "Choose the word that completes the sentence: 'The dog ___ loudly.'",
+    "options": ["barks", "barking", "bark", "barked"],
+    "answer": 0,
+    "explanation": "The subject 'dog' is singular, so we use 'barks'."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Hous", "House", "Hose", "Howse"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'House'."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Moon'?",
+    "options": ["Sun", "Monkey", "Ball", "Cat"],
+    "answer": 1,
+    "explanation": "Both 'Moon' and 'Monkey' start with the /m/ sound."
+  },
+  {
+    "q": "Which word is a synonym for 'Angry'?",
+    "options": ["Happy", "Mad", "Calm", "Sleepy"],
+    "answer": 1,
+    "explanation": "Mad is a synonym for angry."
+  },
+  {
+    "q": "Which of these is a complete sentence?",
+    "options": ["The red apple", "A sunny day", "He likes cake.", "My best friend"],
+    "answer": 2,
+    "explanation": "'He likes cake' has a subject (He) and a verb (likes)."
+  },
+  {
+    "q": "Which word is the opposite of 'Hard'?",
+    "options": ["Tough", "Soft", "Strong", "Heavy"],
+    "answer": 1,
+    "explanation": "The opposite of hard is soft."
+  },
+  {
+    "q": "Which word is a noun?",
+    "options": ["Sleep", "Kind", "Garden", "Fast"],
+    "answer": 2,
+    "explanation": "Garden is a place, so it is a noun."
+  },
+  {
+    "q": "Which word rhymes with 'Light'?",
+    "options": ["Late", "Night", "Lit", "Lot"],
+    "answer": 1,
+    "explanation": "Light and Night both end with the '-ight' sound."
+  },
+  {
+    "q": "Which word needs a capital letter?",
+    "options": ["chair", "Tuesday", "pen", "hat"],
+    "answer": 1,
+    "explanation": "Tuesday is a day of the week, so it is a proper noun."
+  },
+  {
+    "q": "Which word is a verb?",
+    "options": ["Quiet", "Green", "Sing", "Paper"],
+    "answer": 2,
+    "explanation": "Sing is an action, so it is a verb."
+  },
+  {
+    "q": "Which word describes a feeling?",
+    "options": ["Red", "Large", "Sad", "Round"],
+    "answer": 2,
+    "explanation": "Sad describes a feeling, so it is an adjective."
+  }
+]

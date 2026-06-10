@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Sarah has 4 boxes of crayons. Each box has 8 crayons. How many crayons does Sarah have in total?",
+    "options": ["12", "24", "32", "36"],
+    "answer": 2,
+    "explanation": "To find the total, multiply the number of boxes by the number of crayons in each box: 4 boxes × 8 crayons = 32 crayons."
+  },
+  {
+    "q": "Which of the following is equal to 3 × 7?",
+    "options": ["7 + 7 + 7", "3 + 3 + 3", "7 + 3", "3 + 7"],
+    "answer": 0,
+    "explanation": "Multiplication is repeated addition. 3 × 7 means 7 added to itself 3 times: 7 + 7 + 7 = 21."
+  },
+  {
+    "q": "A rectangle has a length of 6 inches and a width of 4 inches. What is the area of the rectangle?",
+    "options": ["10 square inches", "20 square inches", "24 square inches", "28 square inches"],
+    "answer": 2,
+    "explanation": "Area of a rectangle = length × width. 6 inches × 4 inches = 24 square inches."
+  },
+  {
+    "q": "Which fraction represents the shaded part of a circle divided into 4 equal parts with 1 part shaded?",
+    "options": ["1/2", "1/3", "1/4", "3/4"],
+    "answer": 2,
+    "explanation": "The denominator represents the total number of equal parts (4) and the numerator represents the shaded parts (1). So, the fraction is 1/4."
+  },
+  {
+    "q": "Solve: 458 + 237 = ?",
+    "options": ["685", "695", "705", "692"],
+    "answer": 1,
+    "explanation": "458 + 237: 8+7=15 (carry 1), 5+3+1=9, 4+2=6. The sum is 695."
+  },
+  {
+    "q": "If 5 × 6 = 30, what is 30 ÷ 5?",
+    "options": ["5", "6", "10", "15"],
+    "answer": 1,
+    "explanation": "Division is the inverse of multiplication. Since 5 × 6 = 30, then 30 ÷ 5 = 6."
+  },
+  {
+    "q": "Round 74 to the nearest ten.",
+    "options": ["70", "75", "80", "100"],
+    "answer": 0,
+    "explanation": "When rounding to the nearest ten, look at the ones digit (4). Since 4 is less than 5, round down to 70."
+  },
+  {
+    "q": "What is the perimeter of a square with a side length of 5 centimeters?",
+    "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+    "answer": 2,
+    "explanation": "Perimeter of a square = 4 × side length. 4 × 5 cm = 20 cm."
+  },
+  {
+    "q": "Which number is in the hundreds place in the number 8,241?",
+    "options": ["8", "2", "4", "1"],
+    "answer": 1,
+    "explanation": "In 8,241: 1 is in the ones place, 4 is in the tens place, 2 is in the hundreds place, and 8 is in the thousands place."
+  },
+  {
+    "q": "A clock shows the time as 3:15. What time will it be in 45 minutes?",
+    "options": ["3:45", "4:00", "4:15", "4:30"],
+    "answer": 1,
+    "explanation": "3:15 + 45 minutes: 15 + 45 = 60 minutes. 60 minutes equals 1 hour. So, 3:00 + 1 hour = 4:00."
+  },
+  {
+    "q": "Solve: 800 - 342 = ?",
+    "options": ["458", "468", "558", "568"],
+    "answer": 0,
+    "explanation": "800 - 342 = 458."
+  },
+  {
+    "q": "Which of these is a quadrilateral?",
+    "options": ["Triangle", "Pentagon", "Rectangle", "Circle"],
+    "answer": 2,
+    "explanation": "A quadrilateral is a polygon with four sides. A rectangle has four sides."
+  },
+  {
+    "q": "If a pizza is cut into 8 equal slices and James eats 3 slices, what fraction of the pizza is left?",
+    "options": ["3/8", "5/8", "8/3", "1/2"],
+    "answer": 1,
+    "explanation": "Total slices = 8. Slices eaten = 3. Slices left = 8 - 3 = 5. The fraction left is 5/8."
+  },
+  {
+    "q": "What is 7 multiplied by 9?",
+    "options": ["56", "63", "72", "81"],
+    "answer": 1,
+    "explanation": "7 × 9 = 63."
+  },
+  {
+    "q": "Which number is odd?",
+    "options": ["24", "36", "47", "58"],
+    "answer": 2,
+    "explanation": "An odd number ends in 1, 3, 5, 7, or 9. 47 ends in 7, so it is odd."
+  },
+  {
+    "q": "Solve: 342 + 159 = ?",
+    "options": ["491", "501", "481", "511"],
+    "answer": 1,
+    "explanation": "342 + 159 = 501."
+  },
+  {
+    "q": "Subtract 125 from 500. What is the result?",
+    "options": ["375", "385", "475", "365"],
+    "answer": 0,
+    "explanation": "500 - 125 = 375."
+  },
+  {
+    "q": "What is 6 × 8?",
+    "options": ["42", "48", "54", "56"],
+    "answer": 1,
+    "explanation": "6 × 8 = 48."
+  },
+  {
+    "q": "If you divide 24 by 4, what is the quotient?",
+    "options": ["4", "6", "8", "12"],
+    "answer": 1,
+    "explanation": "24 ÷ 4 = 6."
+  },
+  {
+    "q": "Which fraction is equivalent to 1/2?",
+    "options": ["2/4", "1/3", "2/6", "3/8"],
+    "answer": 0,
+    "explanation": "2/4 simplifies to 1/2."
+  },
+  {
+    "q": "Round 384 to the nearest hundred.",
+    "options": ["300", "380", "400", "350"],
+    "answer": 2,
+    "explanation": "Since 84 is 50 or greater, round up to 400."
+  },
+  {
+    "q": "What is the area of a square with a side length of 7 cm?",
+    "options": ["28 sq cm", "49 sq cm", "35 sq cm", "14 sq cm"],
+    "answer": 1,
+    "explanation": "Area = side × side = 7 × 7 = 49 sq cm."
+  },
+  {
+    "q": "Which number is in the thousands place in 4,567?",
+    "options": ["4", "5", "6", "7"],
+    "answer": 0,
+    "explanation": "The number 4 is in the thousands place."
+  },
+  {
+    "q": "A movie starts at 2:00 PM and lasts for 1 hour and 30 minutes. What time does it end?",
+    "options": ["3:00 PM", "3:15 PM", "3:30 PM", "4:00 PM"],
+    "answer": 2,
+    "explanation": "2:00 + 1 hour 30 minutes = 3:30 PM."
+  },
+  {
+    "q": "Solve: 900 - 456 = ?",
+    "options": ["444", "454", "544", "434"],
+    "answer": 0,
+    "explanation": "900 - 456 = 444."
+  },
+  {
+    "q": "Which of these is a polygon with 6 sides?",
+    "options": ["Pentagon", "Hexagon", "Octagon", "Quadrilateral"],
+    "answer": 1,
+    "explanation": "A hexagon has 6 sides."
+  },
+  {
+    "q": "What is 1/3 of 15?",
+    "options": ["3", "5", "7", "10"],
+    "answer": 1,
+    "explanation": "15 ÷ 3 = 5."
+  },
+  {
+    "q": "What is 12 × 3?",
+    "options": ["30", "33", "36", "39"],
+    "answer": 2,
+    "explanation": "12 × 3 = 36."
+  },
+  {
+    "q": "Which number is a multiple of 5?",
+    "options": ["12", "23", "35", "47"],
+    "answer": 2,
+    "explanation": "35 ends in 5, so it is a multiple of 5."
+  },
+  {
+    "q": "Solve: 25 ÷ 5 = ?",
+    "options": ["3", "4", "5", "6"],
+    "answer": 2,
+    "explanation": "25 ÷ 5 = 5."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "q": "What is the purpose of a 'thesis statement' in an essay?",
+    "options": ["To introduce the characters", "To state the main argument or point of the essay", "To summarize the conclusion", "To provide a list of references"],
+    "answer": 1,
+    "explanation": "A thesis statement clearly states the main point or argument the author will prove."
+  },
+  {
+    "q": "Which of these is a 'metaphor'?",
+    "options": ["The wind howled", "He is a night owl", "As white as a sheet", "Quiet as a mouse"],
+    "answer": 1,
+    "explanation": "A metaphor describes one thing as being another. 'He is a night owl' means he stays up late."
+  },
+  {
+    "q": "What does it mean to 'infer' something from a text?",
+    "options": ["To read the text out loud", "To copy the text exactly", "To draw a conclusion based on evidence and reasoning", "To search for a word in the dictionary"],
+    "answer": 2,
+    "explanation": "Inference is using clues from the text and your own knowledge to understand something not explicitly stated."
+  },
+  {
+    "q": "Which word is an example of 'onomatopoeia'?",
+    "options": ["Beautiful", "Sizzle", "Fast", "Jump"],
+    "answer": 1,
+    "explanation": "Onomatopoeia are words that imitate the sound they describe. 'Sizzle' describes a sound."
+  },
+  {
+    "q": "In a story, the 'climax' is:",
+    "options": ["The introduction", "The falling action", "The turning point or most intense part", "The resolution"],
+    "answer": 2,
+    "explanation": "The climax is the peak of the action and the turning point of the plot."
+  },
+  {
+    "q": "Which of these is a first-person point of view?",
+    "options": ["He went to the store.", "They played soccer.", "I walked to the park.", "She read a book."],
+    "answer": 2,
+    "explanation": "First-person point of view uses pronouns like 'I', 'me', 'we', and 'us'."
+  },
+  {
+    "q": "What is the meaning of the idiom 'break a leg'?",
+    "options": ["To get injured", "To fail", "Good luck", "To be clumsy"],
+    "answer": 2,
+    "explanation": "'Break a leg' is a common idiom meaning 'good luck', especially in performing arts."
+  },
+  {
+    "q": "Which word is a 'conjunction'?",
+    "options": ["Quickly", "And", "Happy", "Under"],
+    "answer": 1,
+    "explanation": "Conjunctions (like 'and', 'but', 'or') connect words, phrases, or clauses."
+  },
+  {
+    "q": "What is the main difference between a 'biography' and an 'autobiography'?",
+    "options": ["One is fiction, one is non-fiction", "One is written by someone else, one is written by the subject", "One is long, one is short", "One is about animals, one is about people"],
+    "answer": 1,
+    "explanation": "A biography is written by another person; an autobiography is written by the person themselves."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Accomodate", "Accommodate", "Acomodate", "Accommodat"],
+    "answer": 1,
+    "explanation": "The correct spelling is 'Accommodate' (two 'c's and two 'm's)."
+  },
+  {
+    "q": "Which of these is a 'personification'?",
+    "options": ["He is a lion", "The leaves danced in the wind", "As cold as ice", "The car is fast"],
+    "answer": 1,
+    "explanation": "Personification gives human qualities to non-human things. Leaves cannot dance."
+  },
+  {
+    "q": "What is the main goal of an 'informative' text?",
+    "options": ["To tell a funny story", "To persuade the reader", "To provide facts and information", "To express the author's feelings"],
+    "answer": 2,
+    "explanation": "Informative texts are designed to teach or inform the reader about a topic."
+  },
+  {
+    "q": "Which word is a synonym for 'Obsolete'?",
+    "options": ["New", "Outdated", "Useful", "Fast"],
+    "answer": 1,
+    "explanation": "Obsolete means no longer produced or used; outdated."
+  },
+  {
+    "q": "What does a 'summary' do?",
+    "options": ["Adds more details to a story", "Rewrites the whole story", "Gives a brief overview of the main points", "Describes only the characters"],
+    "answer": 2,
+    "explanation": "A summary condenses a text into its most important points."
+  },
+  {
+    "q": "Which of these is an example of 'irony'?",
+    "options": ["A fire station burning down", "A dog barking", "A bird flying", "A fish swimming"],
+    "answer": 0,
+    "explanation": "Irony occurs when the opposite of what is expected happens."
+  },
+  {
+    "q": "Which word is an 'antonym' for 'Optimistic'?",
+    "options": ["Positive", "Hopeful", "Pessimistic", "Cheerful"],
+    "answer": 2,
+    "explanation": "Pessimistic is the opposite of optimistic."
+  },
+  {
+    "q": "What is the purpose of 'supporting details' in a paragraph?",
+    "options": ["To replace the main idea", "To provide evidence or examples for the main idea", "To make the paragraph longer", "To introduce a new topic"],
+    "answer": 1,
+    "explanation": "Supporting details explain, prove, or expand on the main idea."
+  },
+  {
+    "q": "Which word is a 'homograph' (same spelling, different meaning)?",
+    "options": ["Their", "Lead", "Blue", "Apple"],
+    "answer": 1,
+    "explanation": "'Lead' can be a metal (led) or the action of guiding (leed)."
+  },
+  {
+    "q": "What is the purpose of a 'counterargument' in a persuasive essay?",
+    "options": ["To agree with everyone", "To ignore the opposite view", "To acknowledge and address the opposing view", "To change the topic"],
+    "answer": 2,
+    "explanation": "A counterargument shows the author has considered other perspectives."
+  },
+  {
+    "q": "Which punctuation mark is used to introduce a list?",
+    "options": [".", ",", "!", ":"],
+    "answer": 3,
+    "explanation": "A colon (:) is often used to introduce a list."
+  },
+  {
+    "q": "What is 'alliteration'?",
+    "options": ["Words that sound the same", "Repetition of the same initial consonant sound", "A comparison using like or as", "A word that sounds like its meaning"],
+    "answer": 1,
+    "explanation": "Alliteration is the repetition of initial sounds (e.g., 'Peter Piper picked')."
+  },
+  {
+    "q": "Which word is a synonym for 'Meticulous'?",
+    "options": ["Careless", "Fast", "Thorough", "Lazy"],
+    "answer": 2,
+    "explanation": "Meticulous means showing great attention to detail; thorough."
+  },
+  {
+    "q": "What does a 'hyperbole' do?",
+    "options": ["Understates a situation", "Describes something literally", "Uses extreme exaggeration for effect", "Presents a factual report"],
+    "answer": 2,
+    "explanation": "Hyperbole is an intentional exaggeration (e.g., 'I've told you a million times')."
+  },
+  {
+    "q": "Which of these is a 'compound-complex' sentence?",
+    "options": ["I like cake.", "I like cake, and I like ice cream.", "Because it was raining, I stayed inside, and I read a book.", "Although it was raining, I went out."],
+    "answer": 2,
+    "explanation": "A compound-complex sentence has at least two independent clauses and one or more dependent clauses."
+  },
+  {
+    "q": "What is the 'tone' of a piece of writing?",
+    "options": ["The volume of the narrator", "The author's attitude toward the subject", "The number of words in a sentence", "The type of font used"],
+    "answer": 1,
+    "explanation": "Tone reflects the author's emotion or attitude (e.g., sarcastic, solemn, joyful)."
+  },
+  {
+    "q": "Which word is spelled correctly?",
+    "options": ["Occurred", "Ocured", "Occured", "Occureed"],
+    "answer": 0,
+    "explanation": "The correct spelling is 'Occurred'."
+  },
+  {
+    "q": "What is an 'oxymoron'?",
+    "options": ["A word that rhymes", "A phrase with contradictory terms", "A very long word", "A type of poem"],
+    "answer": 1,
+    "explanation": "An oxymoron combines opposite words (e.g., 'deafening silence')."
+  },
+  {
+    "q": "Which part of a plot is the 'resolution'?",
+    "options": ["The beginning", "The most exciting part", "The part where the conflict is settled", "The introduction of characters"],
+    "answer": 2,
+    "explanation": "The resolution is the end of the story where things are wrapped up."
+  },
+  {
+    "q": "What is the purpose of 'context clues'?",
+    "options": ["To find the page number", "To determine the meaning of an unknown word", "To check for spelling errors", "To count the number of nouns"],
+    "answer": 1,
+    "explanation": "Context clues are words around an unknown word that help you figure out its meaning."
+  },
+  {
+    "q": "Which word is a 'preposition'?",
+    "options": ["Quickly", "Under", "Happy", "They"],
+    "answer": 1,
+    "explanation": "Under is a preposition showing location."
+  }
+]

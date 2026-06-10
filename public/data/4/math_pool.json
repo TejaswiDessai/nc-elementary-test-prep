@@ -1,0 +1,182 @@
+[
+  {
+    "q": "What is 45 × 12?",
+    "options": ["540", "480", "500", "520"],
+    "answer": 0,
+    "explanation": "45 × 12 = 540."
+  },
+  {
+    "q": "Solve: 1,245 + 3,876 = ?",
+    "options": ["5,111", "5,121", "5,021", "4,121"],
+    "answer": 1,
+    "explanation": "1,245 + 3,876 = 5,121."
+  },
+  {
+    "q": "What is 3/4 expressed as a decimal?",
+    "options": ["0.34", "0.50", "0.75", "0.80"],
+    "answer": 2,
+    "explanation": "3 divided by 4 is 0.75."
+  },
+  {
+    "q": "A car travels 60 miles per hour. How far will it travel in 3.5 hours?",
+    "options": ["180 miles", "210 miles", "240 miles", "200 miles"],
+    "answer": 1,
+    "explanation": "60 mph × 3.5 hours = 210 miles."
+  },
+  {
+    "q": "Solve: 48 ÷ 6 = ?",
+    "options": ["6", "7", "8", "9"],
+    "answer": 2,
+    "explanation": "48 divided by 6 is 8."
+  },
+  {
+    "q": "Which angle is exactly 90 degrees?",
+    "options": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"],
+    "answer": 2,
+    "explanation": "A right angle is exactly 90 degrees."
+  },
+  {
+    "q": "What is the perimeter of a rectangle with length 12cm and width 8cm?",
+    "options": ["20cm", "40cm", "96cm", "32cm"],
+    "answer": 1,
+    "explanation": "Perimeter = 2 × (length + width) = 2 × (12 + 8) = 2 × 20 = 40cm."
+  },
+  {
+    "q": "Convert 5 kilograms to grams.",
+    "options": ["50g", "500g", "5,000g", "50,000g"],
+    "answer": 2,
+    "explanation": "1 kg = 1,000 g. So, 5 kg = 5,000 g."
+  },
+  {
+    "q": "Which number is a prime number?",
+    "options": ["9", "15", "17", "21"],
+    "answer": 2,
+    "explanation": "A prime number has only two factors: 1 and itself. 17 is prime."
+  },
+  {
+    "q": "What is 0.45 rounded to the nearest tenth?",
+    "options": ["0.4", "0.5", "0.40", "0.6"],
+    "answer": 1,
+    "explanation": "Since the hundredths digit is 5, round the tenths digit up to 0.5."
+  },
+  {
+    "q": "Solve: 2,500 - 875 = ?",
+    "options": ["1,625", "1,725", "1,525", "1,635"],
+    "answer": 0,
+    "explanation": "2,500 - 875 = 1,625."
+  },
+  {
+    "q": "What is 15 × 20?",
+    "options": ["200", "250", "300", "350"],
+    "answer": 2,
+    "explanation": "15 × 20 = 300."
+  },
+  {
+    "q": "Which fraction is equivalent to 3/5?",
+    "options": ["6/10", "4/8", "3/10", "6/15"],
+    "answer": 0,
+    "explanation": "3/5 = 6/10 when multiplied by 2/2."
+  },
+  {
+    "q": "If a rectangle has an area of 48 sq cm and a length of 8 cm, what is the width?",
+    "options": ["4 cm", "6 cm", "8 cm", "10 cm"],
+    "answer": 1,
+    "explanation": "Width = Area ÷ Length = 48 ÷ 8 = 6 cm."
+  },
+  {
+    "q": "Which of these is an obtuse angle?",
+    "options": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"],
+    "answer": 2,
+    "explanation": "An obtuse angle is greater than 90 degrees but less than 180 degrees."
+  },
+  {
+    "q": "Solve: 144 ÷ 12 = ?",
+    "options": ["10", "11", "12", "14"],
+    "answer": 2,
+    "explanation": "144 ÷ 12 = 12."
+  },
+  {
+    "q": "Convert 3/4 to a percentage.",
+    "options": ["30%", "50%", "75%", "80%"],
+    "answer": 2,
+    "explanation": "3/4 = 0.75 = 75%."
+  },
+  {
+    "q": "What is the sum of 0.75 and 1.5?",
+    "options": ["2.0", "2.25", "2.5", "2.75"],
+    "answer": 1,
+    "explanation": "0.75 + 1.5 = 2.25."
+  },
+  {
+    "q": "Which number is a multiple of 9?",
+    "options": ["19", "28", "54", "64"],
+    "answer": 2,
+    "explanation": "54 ÷ 9 = 6, so it is a multiple."
+  },
+  {
+    "q": "What is the value of 7^2 (7 squared)?",
+    "options": ["14", "35", "49", "56"],
+    "answer": 2,
+    "explanation": "7^2 = 7 × 7 = 49."
+  },
+  {
+    "q": "Solve: 4,000 - 1,234 = ?",
+    "options": ["2,766", "2,866", "2,776", "3,766"],
+    "answer": 0,
+    "explanation": "4,000 - 1,234 = 2,766."
+  },
+  {
+    "q": "What is 25 × 40?",
+    "options": ["800", "900", "1,000", "1,100"],
+    "answer": 2,
+    "explanation": "25 × 40 = 1,000."
+  },
+  {
+    "q": "Which fraction is larger: 2/3 or 3/4?",
+    "options": ["2/3", "3/4", "They are equal", "None"],
+    "answer": 1,
+    "explanation": "2/3 = 0.66, 3/4 = 0.75. So 3/4 is larger."
+  },
+  {
+    "q": "If a square has a perimeter of 36 cm, what is its side length?",
+    "options": ["6 cm", "9 cm", "12 cm", "15 cm"],
+    "answer": 1,
+    "explanation": "Side = Perimeter ÷ 4 = 36 ÷ 4 = 9 cm."
+  },
+  {
+    "q": "Solve: 72 ÷ 8 = ?",
+    "options": ["7", "8", "9", "10"],
+    "answer": 2,
+    "explanation": "72 ÷ 8 = 9."
+  },
+  {
+    "q": "Round 1,456 to the nearest hundred.",
+    "options": ["1,400", "1,450", "1,500", "1,600"],
+    "answer": 2,
+    "explanation": "Since 56 is 50 or greater, round up to 1,500."
+  },
+  {
+    "q": "What is 0.12 + 0.88?",
+    "options": ["0.90", "1.0", "1.1", "1.2"],
+    "answer": 1,
+    "explanation": "0.12 + 0.88 = 1.0."
+  },
+  {
+    "q": "Which of these is an acute angle?",
+    "options": ["30 degrees", "90 degrees", "110 degrees", "180 degrees"],
+    "answer": 0,
+    "explanation": "An acute angle is less than 90 degrees."
+  },
+  {
+    "q": "What is 1/5 as a decimal?",
+    "options": ["0.1", "0.2", "0.5", "0.05"],
+    "answer": 1,
+    "explanation": "1 ÷ 5 = 0.2."
+  },
+  {
+    "q": "Solve: 13 × 7 = ?",
+    "options": ["81", "91", "101", "111"],
+    "answer": 1,
+    "explanation": "13 × 7 = 91."
+  }
+]

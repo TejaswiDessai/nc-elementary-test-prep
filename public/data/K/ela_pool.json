@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Which word starts with the same sound as 'Cat'?",
+    "options": ["Dog", "Cup", "Apple", "Sun"],
+    "answer": 1,
+    "explanation": "Both 'Cat' and 'Cup' start with the /k/ sound."
+  },
+  {
+    "q": "Which of these is a letter?",
+    "options": ["1", "A", "@", "#"],
+    "answer": 1,
+    "explanation": "'A' is a letter of the alphabet."
+  },
+  {
+    "q": "Which word rhymes with 'Hat'?",
+    "options": ["Hot", "Mat", "Hip", "Hop"],
+    "answer": 1,
+    "explanation": "'Hat' and 'Mat' both end with the '-at' sound."
+  },
+  {
+    "q": "Which is a picture of a 'B' sound word?",
+    "options": ["Apple", "Ball", "Cat", "Dog"],
+    "answer": 1,
+    "explanation": "'Ball' starts with the /b/ sound."
+  },
+  {
+    "q": "Which word describes a color?",
+    "options": ["Big", "Red", "Jump", "Fast"],
+    "answer": 1,
+    "explanation": "Red is a color."
+  },
+  {
+    "q": "What sound does the letter 'S' make?",
+    "options": ["/m/", "/t/", "/s/", "/p/"],
+    "answer": 2,
+    "explanation": "The letter 'S' makes a hissing /s/ sound."
+  },
+  {
+    "q": "Which word is a naming word for a person?",
+    "options": ["Run", "Boy", "Red", "Silly"],
+    "answer": 1,
+    "explanation": "A boy is a person."
+  },
+  {
+    "q": "Which word rhymes with 'Pig'?",
+    "options": ["Big", "Peg", "Pug", "Pag"],
+    "answer": 0,
+    "explanation": "'Pig' and 'Big' both end with the '-ig' sound."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Sun'?",
+    "options": ["Moon", "Star", "Silly", "Ball"],
+    "answer": 2,
+    "explanation": "Both 'Sun' and 'Silly' start with the /s/ sound."
+  },
+  {
+    "q": "Which of these is a vowel?",
+    "options": ["B", "C", "E", "D"],
+    "answer": 2,
+    "explanation": "The vowels are A, E, I, O, U."
+  },
+  {
+    "q": "Which word rhymes with 'Dog'?",
+    "options": ["Cat", "Log", "Pig", "Sun"],
+    "answer": 1,
+    "explanation": "Dog and Log both end with the '-og' sound."
+  },
+  {
+    "q": "Which letter comes after 'A'?",
+    "options": ["B", "C", "D", "E"],
+    "answer": 0,
+    "explanation": "The alphabet goes A, B, C..."
+  },
+  {
+    "q": "Which word is an animal?",
+    "options": ["Chair", "Apple", "Lion", "Blue"],
+    "answer": 2,
+    "explanation": "A lion is an animal."
+  },
+  {
+    "q": "Which word rhymes with 'Fan'?",
+    "options": ["Fin", "Pan", "Fun", "Fen"],
+    "answer": 1,
+    "explanation": "Fan and Pan rhyme."
+  },
+  {
+    "q": "Which of these starts with the /m/ sound?",
+    "options": ["Moon", "Sun", "Top", "Ball"],
+    "answer": 0,
+    "explanation": "Moon starts with /m/."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Fish'?",
+    "options": ["Ball", "Fan", "Frog", "Dog"],
+    "answer": 2,
+    "explanation": "Both 'Fish' and 'Frog' start with the /f/ sound."
+  },
+  {
+    "q": "Which of these is a consonant?",
+    "options": ["A", "E", "I", "T"],
+    "answer": 3,
+    "explanation": "T is a consonant. A, E, and I are vowels."
+  },
+  {
+    "q": "Which word rhymes with 'Pen'?",
+    "options": ["Pin", "Ten", "Pan", "Pun"],
+    "answer": 1,
+    "explanation": "Pen and Ten both end with the '-en' sound."
+  },
+  {
+    "q": "Which is a 'C' sound word?",
+    "options": ["Apple", "Cup", "Dog", "Fish"],
+    "answer": 1,
+    "explanation": "Cup starts with the /k/ sound, which is made by the letter 'C'."
+  },
+  {
+    "q": "Which word describes a size?",
+    "options": ["Green", "Big", "Happy", "Silly"],
+    "answer": 1,
+    "explanation": "Big describes the size of something."
+  },
+  {
+    "q": "Which word rhymes with 'Top'?",
+    "options": ["Tap", "Hop", "Tip", "Tup"],
+    "answer": 1,
+    "explanation": "Top and Hop both end with the '-op' sound."
+  },
+  {
+    "q": "Which letter comes before 'C'?",
+    "options": ["A", "B", "D", "E"],
+    "answer": 1,
+    "explanation": "The alphabet goes A, B, C."
+  },
+  {
+    "q": "Which word is a naming word for a place?",
+    "options": ["Jump", "Park", "Blue", "Fast"],
+    "answer": 1,
+    "explanation": "Park is a place, so it is a noun."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Ball'?",
+    "options": ["Cat", "Dog", "Boat", "Sun"],
+    "answer": 2,
+    "explanation": "Both 'Ball' and 'Boat' start with the /b/ sound."
+  },
+  {
+    "q": "Which of these is a vowel?",
+    "options": ["R", "S", "O", "P"],
+    "answer": 2,
+    "explanation": "O is a vowel."
+  },
+  {
+    "q": "Which word rhymes with 'Bed'?",
+    "options": ["Bad", "Red", "Bid", "Bud"],
+    "answer": 1,
+    "explanation": "Bed and Red both end with the '-ed' sound."
+  },
+  {
+    "q": "Which word starts with the same sound as 'Tigerr'?",
+    "options": ["Silly", "Table", "Ball", "Cat"],
+    "answer": 1,
+    "explanation": "Both 'Tiger' and 'Table' start with the /t/ sound."
+  },
+  {
+    "q": "Which word is an animal?",
+    "options": ["Book", "Apple", "Cat", "Red"],
+    "answer": 2,
+    "explanation": "A cat is an animal."
+  },
+  {
+    "q": "Which word rhymes with 'Can'?",
+    "options": ["Coin", "Man", "Cone", "Cane"],
+    "answer": 1,
+    "explanation": "Can and Man rhyme."
+  },
+  {
+    "q": "Which of these starts with the /p/ sound?",
+    "options": ["Sun", "Top", "Pig", "Ball"],
+    "answer": 2,
+    "explanation": "Pig starts with /p/."
+  }
+]
